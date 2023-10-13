@@ -322,3 +322,4 @@ ui-tests/.pnp.*
 profile_default/
 ipython_config.py
 
+*.jupyterlab-workspace
